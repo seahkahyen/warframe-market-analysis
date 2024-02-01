@@ -3,7 +3,7 @@
 Warframe Market is an online platform where players can trade in-game items such as mods, prime parts, and other resources in the popular video game Warframe.
 
 
-The Warframe Market Data Analysis project is designed to retrieve and use machine learning to analyze in-game item pricing information from the Warframe Market API. 
+The Warframe Market Data Analysis project is designed to retrieve item data from its API and use machine learning to analyze and predict future item prices.
 
 # Project Overview
 
