@@ -18,7 +18,7 @@ Fetching item information from the Warframe Market API to understand the current
 Utilizing linear regression, random forest and gradient boosting to predict the lowest price for the next day based on historical order data. This involves extracting, processing, and analyzing order information to provide insights into price trends.
 
 Using linear regression as a baseline for comparison, I used random forest for its better predictive performance and robustness.
-Subsequently, I used gradient boosting to correct the errors made by both predictive models, resulting in a more accurate ensemble known as a Gradient Boosted Random Forest.
+Subsequently, I used gradient boosting regression as another predictive model
 
 ## Evalutation Metric
 
