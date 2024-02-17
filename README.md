@@ -15,16 +15,15 @@ Fetching item information from the Warframe Market API to understand the current
 
 ## Data Analysis
 
-Utilizing linear regression, random forest and gradient boosting to predict the lowest price for the next day based on historical order data. This involves extracting, processing, and analyzing order information to provide insights into price trends.
+Utilizing predictive models such as linear regression, random forest, gradient boost, ada boost and XGB to predict the lowest price for the next day based on historical order data. 
 
-Using linear regression as a baseline for comparison, I used random forest for its better predictive performance and robustness.
-Subsequently, I used gradient boosting regression as another predictive model
+This involves extracting, processing, and analyzing order information to provide insights into price trends.
 
 ## Evalutation Metric
 
 To determine which predictive model is the most accurate, I used Mean Absolute Error (MAE) as a metric to assess the accuracy of my predictive models. 
 
-MAE represents the mean of the absolute difference between the predicted values and the actual values. Thus a lower MAE indicates that the model's predictions are closer to the actual values.
+MAE represents the mean of the absolute difference between the predicted values and the actual values. Thus a lower MAE suggests that the model's predictions are closer to the actual values.
 
 ## Output
 
